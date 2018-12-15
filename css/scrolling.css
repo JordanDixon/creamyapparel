@@ -86,7 +86,7 @@ footer {
 
 /* nav */
 .nav-pills .nav-link.active {
-	color: #f6ec94;
+	color: #fff;
 	background-color: rgba(200, 200, 200, 0.4);
 	padding-left: 0.7rem;
 	padding-right: 0.7rem;
